@@ -1,7 +1,13 @@
 # List of Projects
 * [Spring Batch](batch)
 * [Spring Data Mongo](data-mongo)
+* [Spring Data Rest](data-rest)
+* [Spring ORM](orm)
+* [Spring Retry](retry)
+* [Spring Scheduler](scheduler)
+* [Spring MVC](mvc)
 * [Spring Security](security)
 * [Spring Data JPA](spring-data-jpa)
 * [Spring JDBC](spring-jdbc)
+* [Spring Transaction](transaction)
 * [Spring Web Flux](web-flux)
