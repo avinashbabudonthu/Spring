@@ -1,4 +1,4 @@
-# Spring Batch Projects
+# Spring Integration Projects
 * YTD
 
 ## Materials
