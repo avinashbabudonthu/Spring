@@ -1,6 +1,6 @@
 cd /d %cd%
 git status
 git add .
-git commit -m "spring"
+git commit -m "spring %date% %time%"
 git push
 pause
